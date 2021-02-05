@@ -1,0 +1,1 @@
+# dotnetcore-multiple-auth-handlers
